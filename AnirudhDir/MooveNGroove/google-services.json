@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "303408808745",
+    "firebase_url": "https://mccproject-357f7.firebaseio.com",
+    "project_id": "mccproject-357f7",
+    "storage_bucket": "mccproject-357f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303408808745:android:9456dba17d6a895b",
+        "android_client_info": {
+          "package_name": "com.example.anirudh.mobilecloudproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303408808745-6k4eprkt5lpm565l0cv7fnetk7dqk7u1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZuJ2ZfbQyheN6wv2gLaM_CM_gYqvzsr8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
